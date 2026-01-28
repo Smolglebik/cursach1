@@ -1,0 +1,7 @@
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net8.0/WebApplication1.csproj.AssemblyReference.cache
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net8.0/WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfoInputs.cache
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net8.0/WebApplication1.AssemblyInfo.cs
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net8.0/WebApplication1.csproj.CoreCompileInputs.cache
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net8.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cache

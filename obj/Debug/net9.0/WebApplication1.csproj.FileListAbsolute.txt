@@ -1,0 +1,284 @@
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/appsettings.Development.json
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/appsettings.json
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/WebApplication1.staticwebassets.endpoints.json
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/WebApplication1
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/WebApplication1.deps.json
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/WebApplication1.runtimeconfig.json
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/WebApplication1.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/WebApplication1.pdb
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.csproj.AssemblyReference.cache
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.AssemblyInfoInputs.cache
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.AssemblyInfo.cs
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.csproj.CoreCompileInputs.cache
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/scopedcss/bundle/WebApplication1.styles.css
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/staticwebassets.build.json
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/staticwebassets.development.json
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/staticwebassets/msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/staticwebassets/msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/staticwebassets/msbuild.build.WebApplication1.props
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication1.props
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.WebApplication1.props
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/staticwebassets.pack.json
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/WebAppli.7D14BD69.Up2Date
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/refint/WebApplication1.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.pdb
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.genruntimeconfig.cache
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/ref/WebApplication1.dll
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/appsettings.Development.json
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/appsettings.json
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/WebApplication1.staticwebassets.endpoints.json
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/WebApplication1
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/WebApplication1.deps.json
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/WebApplication1.runtimeconfig.json
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/WebApplication1.dll
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/WebApplication1.pdb
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.csproj.AssemblyReference.cache
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.AssemblyInfoInputs.cache
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.AssemblyInfo.cs
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.csproj.CoreCompileInputs.cache
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/scopedcss/bundle/WebApplication1.styles.css
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/staticwebassets.build.json
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/staticwebassets.development.json
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/staticwebassets/msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/staticwebassets/msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/staticwebassets/msbuild.build.WebApplication1.props
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication1.props
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.WebApplication1.props
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/staticwebassets.pack.json
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/WebAppli.7D14BD69.Up2Date
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.dll
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/refint/WebApplication1.dll
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.pdb
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.genruntimeconfig.cache
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/obj/Debug/net9.0/ref/WebApplication1.dll
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.Data.Sqlite.dll
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/SQLitePCLRaw.batteries_v2.dll
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/SQLitePCLRaw.core.dll
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/smolglebik/ASP (2).NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.TestPlatform.AdapterUtilities.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/MSTest.TestAdapter.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/MSTestAdapter.PlatformServices.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.ApplicationInsights.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.Data.Sqlite.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.Testing.Extensions.Telemetry.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.Testing.Extensions.VSTestBridge.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.Testing.Platform.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.Testing.Extensions.MSBuild.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.TestPlatform.CoreUtilities.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.TestPlatform.Utilities.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/testhost.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/MSTest.TestFramework.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/SQLitePCLRaw.batteries_v2.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/SQLitePCLRaw.core.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/cs/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/de/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/es/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/fr/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/it/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ja/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ko/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pl/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pt-BR/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ru/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/tr/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hans/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hant/Microsoft.Testing.Extensions.Telemetry.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/cs/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/de/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/es/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/fr/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/it/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ja/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ko/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pl/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pt-BR/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ru/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/tr/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hans/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hant/Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/cs/Microsoft.Testing.Platform.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/de/Microsoft.Testing.Platform.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/es/Microsoft.Testing.Platform.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/fr/Microsoft.Testing.Platform.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/it/Microsoft.Testing.Platform.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ja/Microsoft.Testing.Platform.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ko/Microsoft.Testing.Platform.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pl/Microsoft.Testing.Platform.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pt-BR/Microsoft.Testing.Platform.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ru/Microsoft.Testing.Platform.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/tr/Microsoft.Testing.Platform.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hans/Microsoft.Testing.Platform.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hant/Microsoft.Testing.Platform.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/cs/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/de/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/es/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/fr/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/it/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ja/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ko/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pl/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pt-BR/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ru/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/tr/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hans/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hant/Microsoft.Testing.Extensions.MSBuild.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/cs/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/de/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/es/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/fr/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/it/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ja/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ko/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pl/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ru/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/tr/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/cs/MSTest.TestFramework.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/de/MSTest.TestFramework.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/es/MSTest.TestFramework.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/fr/MSTest.TestFramework.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/it/MSTest.TestFramework.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ja/MSTest.TestFramework.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ko/MSTest.TestFramework.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pl/MSTest.TestFramework.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/pt-BR/MSTest.TestFramework.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ru/MSTest.TestFramework.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/tr/MSTest.TestFramework.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hans/MSTest.TestFramework.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/zh-Hant/MSTest.TestFramework.resources.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/MSTest.TestFramework.Extensions.dll
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/MSTest.TestFramework.Extensions.xml
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.gentestingplatformentrypointinputcache.cache
+/home/smolglebik/ASP.NET_apps/WebApplication1/obj/Debug/net9.0/WebApplication1.genautoregisteredextensionsinputcache.cache
+/home/smolglebik/ASP.NET_apps/WebApplication1/bin/Debug/net9.0/ru/MSTestAdapter.PlatformServices.resources.dll
